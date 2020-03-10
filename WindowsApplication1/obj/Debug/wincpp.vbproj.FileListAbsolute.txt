@@ -1,0 +1,10 @@
+C:\Users\Mendax\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Mendax\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Mendax\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Mendax\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Mendax\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Wincpp.resources
+C:\Users\Mendax\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mendax\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\wincpp.vbproj.GenerateResource.Cache
+C:\Users\Mendax\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Mendax\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Mendax\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
