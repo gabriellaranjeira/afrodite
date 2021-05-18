@@ -1,0 +1,1 @@
+<?php echo "<html><h1 style='font-size: 30px;'>ERROR 404</h1></html>"; ?>
